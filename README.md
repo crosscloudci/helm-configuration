@@ -1,1 +1,1 @@
-# testproj-configuration
+# helm-configuration
