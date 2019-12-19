@@ -1,7 +1,7 @@
  project:
   logo_url: "https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg?sanitize=true"
   display_name: Helm
-  sub_title: The Kubernetes Package Manager
+  sub_title: Package Management
   project_url: "https://github.com/helm/helm"
   stable_ref: "v3.0.0"
   head_ref: "master"
